@@ -1,0 +1,120 @@
+2022-11-07 16:41:47,747  INFO [main] SauceDemo1Project:55 - open browser and saucedemo website
+2022-11-07 16:41:49,146  INFO [main] SauceDemo1Project:62 - enter username
+2022-11-07 16:41:49,339  INFO [main] SauceDemo1Project:65 - enter username
+2022-11-07 16:41:50,018  INFO [main] SauceDemo1Project:68 - click on login button
+2022-11-07 16:41:50,019  INFO [main] SauceDemo1Project:69 - open sauce home page 
+2022-11-07 16:41:51,296  INFO [main] SauceDemo1Project:77 - The End
+2023-01-08 15:13:46,930  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-01-08 15:13:47,581  INFO [main] SauceDemo1Project:63 - enter username
+2023-01-08 15:13:47,819  INFO [main] SauceDemo1Project:66 - enter username
+2023-01-08 15:13:48,101  INFO [main] SauceDemo1Project:69 - click on login button
+2023-01-08 15:13:48,102  INFO [main] SauceDemo1Project:70 - open sauce home page 
+2023-01-08 15:13:50,582  INFO [main] SauceDemo1Project:78 - The End
+2023-01-20 18:10:32,010  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-01-20 18:10:32,572  INFO [main] SauceDemo1Project:63 - enter username
+2023-01-20 18:10:32,820  INFO [main] SauceDemo1Project:66 - enter username
+2023-01-20 18:10:33,859  INFO [main] SauceDemo1Project:69 - click on login button
+2023-01-20 18:10:33,860  INFO [main] SauceDemo1Project:70 - open sauce home page 
+2023-01-20 18:10:34,995  INFO [main] SauceDemo1Project:78 - The End
+2023-01-20 18:11:40,372  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-01-20 18:14:24,671  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-01-22 23:54:56,699  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-01-22 23:54:59,251  INFO [main] SauceDemo1Project:63 - enter username
+2023-01-22 23:54:59,398  INFO [main] SauceDemo1Project:66 - enter username
+2023-01-22 23:55:01,474  INFO [main] SauceDemo1Project:69 - click on login button
+2023-01-22 23:55:01,475  INFO [main] SauceDemo1Project:70 - open sauce home page 
+2023-01-22 23:55:32,304  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-01-22 23:55:32,536  INFO [main] SauceDemo1Project:63 - enter username
+2023-01-22 23:55:32,698  INFO [main] SauceDemo1Project:66 - enter username
+2023-01-22 23:55:32,871  INFO [main] SauceDemo1Project:69 - click on login button
+2023-01-22 23:55:32,872  INFO [main] SauceDemo1Project:70 - open sauce home page 
+2023-01-22 23:56:02,830  INFO [main] SauceDemo1Project:78 - The End
+2023-01-22 23:56:34,730  INFO [main] SauceDemo1Project:78 - The End
+2023-01-22 23:59:29,591  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-01-22 23:59:29,865  INFO [main] SauceDemo1Project:63 - enter username
+2023-01-22 23:59:30,001  INFO [main] SauceDemo1Project:66 - enter username
+2023-01-22 23:59:30,188  INFO [main] SauceDemo1Project:69 - click on login button
+2023-01-22 23:59:30,189  INFO [main] SauceDemo1Project:70 - open sauce home page 
+2023-01-23 00:00:32,846  INFO [main] SauceDemo1Project:78 - The End
+2023-01-23 00:03:03,175  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-01-23 00:03:03,480  INFO [main] SauceDemo1Project:63 - enter username
+2023-01-23 00:03:03,641  INFO [main] SauceDemo1Project:66 - enter username
+2023-01-23 00:03:03,823  INFO [main] SauceDemo1Project:69 - click on login button
+2023-01-23 00:03:03,824  INFO [main] SauceDemo1Project:70 - open sauce home page 
+2023-01-23 00:04:05,584  INFO [main] SauceDemo1Project:78 - The End
+2023-01-23 00:07:58,924  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-01-23 00:07:59,168  INFO [main] SauceDemo1Project:63 - enter username
+2023-01-23 00:07:59,327  INFO [main] SauceDemo1Project:66 - enter username
+2023-01-23 00:07:59,508  INFO [main] SauceDemo1Project:69 - click on login button
+2023-01-23 00:07:59,509  INFO [main] SauceDemo1Project:70 - open sauce home page 
+2023-01-23 00:08:16,217  INFO [main] SauceDemo1Project:78 - The End
+2023-01-23 15:17:00,782  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-01-23 15:17:01,404  INFO [main] SauceDemo1Project:63 - enter username
+2023-01-23 15:17:01,536  INFO [main] SauceDemo1Project:66 - enter username
+2023-01-23 15:17:01,786  INFO [main] SauceDemo1Project:69 - click on login button
+2023-01-23 15:17:01,788  INFO [main] SauceDemo1Project:70 - open sauce home page 
+2023-01-23 15:17:04,145  INFO [main] SauceDemo1Project:78 - The End
+2023-01-23 15:17:22,915  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-01-23 15:17:23,147  INFO [main] SauceDemo1Project:63 - enter username
+2023-01-23 15:17:23,296  INFO [main] SauceDemo1Project:66 - enter username
+2023-01-23 15:17:23,499  INFO [main] SauceDemo1Project:69 - click on login button
+2023-01-23 15:17:23,500  INFO [main] SauceDemo1Project:70 - open sauce home page 
+2023-01-23 15:17:24,923  INFO [main] SauceDemo1Project:78 - The End
+2023-01-23 15:19:39,677  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-01-23 15:19:39,923  INFO [main] SauceDemo1Project:63 - enter username
+2023-01-23 15:19:40,054  INFO [main] SauceDemo1Project:66 - enter username
+2023-01-23 15:19:40,238  INFO [main] SauceDemo1Project:69 - click on login button
+2023-01-23 15:19:40,239  INFO [main] SauceDemo1Project:70 - open sauce home page 
+2023-01-23 15:19:40,635  INFO [main] SauceDemo1Project:78 - The End
+2023-01-29 19:10:02,103  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-01-29 19:10:02,688  INFO [main] SauceDemo1Project:63 - enter username
+2023-01-29 19:10:02,816  INFO [main] SauceDemo1Project:66 - enter username
+2023-01-29 19:10:03,443  INFO [main] SauceDemo1Project:69 - click on login button
+2023-01-29 19:10:03,444  INFO [main] SauceDemo1Project:70 - open sauce home page 
+2023-01-29 19:10:03,533  INFO [main] SauceDemo1Project:78 - The End
+2023-01-29 19:10:23,150  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-01-29 19:10:23,457  INFO [main] SauceDemo1Project:63 - enter username
+2023-01-29 19:10:23,783  INFO [main] SauceDemo1Project:66 - enter username
+2023-01-29 19:10:23,973  INFO [main] SauceDemo1Project:69 - click on login button
+2023-01-29 19:10:23,974  INFO [main] SauceDemo1Project:70 - open sauce home page 
+2023-01-29 19:10:24,032  INFO [main] SauceDemo1Project:78 - The End
+2023-01-29 19:19:22,524  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-01-29 19:19:22,747  INFO [main] SauceDemo1Project:63 - enter username
+2023-01-29 19:19:22,880  INFO [main] SauceDemo1Project:66 - enter username
+2023-01-29 19:19:23,063  INFO [main] SauceDemo1Project:69 - click on login button
+2023-01-29 19:19:23,064  INFO [main] SauceDemo1Project:70 - open sauce home page 
+2023-01-29 19:19:23,103  INFO [main] SauceDemo1Project:78 - The End
+2023-01-29 19:20:32,617  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-01-29 19:20:32,919  INFO [main] SauceDemo1Project:63 - enter username
+2023-01-29 19:20:33,107  INFO [main] SauceDemo1Project:66 - enter username
+2023-01-29 19:20:33,296  INFO [main] SauceDemo1Project:69 - click on login button
+2023-01-29 19:20:33,297  INFO [main] SauceDemo1Project:70 - open sauce home page 
+2023-01-29 19:20:33,344  INFO [main] SauceDemo1Project:78 - The End
+2023-01-29 19:30:20,021  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-01-29 19:30:20,334  INFO [main] SauceDemo1Project:63 - enter username
+2023-01-29 19:30:20,514  INFO [main] SauceDemo1Project:66 - enter username
+2023-01-29 19:30:20,780  INFO [main] SauceDemo1Project:69 - click on login button
+2023-01-29 19:30:20,780  INFO [main] SauceDemo1Project:70 - open sauce home page 
+2023-01-29 19:30:20,833  INFO [main] SauceDemo1Project:78 - The End
+2023-02-22 15:44:21,407  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-02-22 15:44:25,015  INFO [main] SauceDemo1Project:63 - enter username
+2023-02-22 15:44:25,358  INFO [main] SauceDemo1Project:66 - enter username
+2023-02-22 15:44:26,297  INFO [main] SauceDemo1Project:69 - click on login button
+2023-02-22 15:44:26,298  INFO [main] SauceDemo1Project:70 - open sauce home page 
+2023-02-22 15:44:26,380  INFO [main] SauceDemo1Project:78 - The End
+2023-02-22 15:45:48,221  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-02-22 15:45:48,512  INFO [main] SauceDemo1Project:63 - enter username
+2023-02-22 15:45:48,643  INFO [main] SauceDemo1Project:66 - enter username
+2023-02-22 15:45:48,826  INFO [main] SauceDemo1Project:69 - click on login button
+2023-02-22 15:45:48,827  INFO [main] SauceDemo1Project:70 - open sauce home page 
+2023-02-22 15:45:49,501  INFO [main] SauceDemo1Project:78 - The End
+2023-02-22 15:53:21,991  INFO [main] SauceDemo1Project:56 - open browser and saucedemo website
+2023-02-22 15:53:22,269  INFO [main] SauceDemo1Project:63 - enter username
+2023-02-22 15:53:22,435  INFO [main] SauceDemo1Project:66 - enter username
+2023-02-22 15:53:22,631  INFO [main] SauceDemo1Project:69 - click on login button
+2023-02-22 15:53:22,632  INFO [main] SauceDemo1Project:70 - open sauce home page 
+2023-02-22 15:53:22,823  INFO [main] SauceDemo1Project:31 - click on menu button
+2023-02-22 15:53:22,926  INFO [main] SauceDemo1Project:34 - click on logout button
+2023-02-22 15:53:22,927  INFO [main] SauceDemo1Project:35 - go on again login page
+2023-02-22 15:53:22,928  INFO [main] SauceDemo1Project:36 - aplying validation
+2023-02-22 15:53:22,948  INFO [main] SauceDemo1Project:78 - The End

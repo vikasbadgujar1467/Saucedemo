@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-22T15:53:08 IST" name="Default suite" finished-at="2023-02-22T15:53:22 IST" duration-ms="14350">
+    <groups>
+    </groups>
+    <test started-at="2023-02-22T15:53:08 IST" name="Default test" finished-at="2023-02-22T15:53:22 IST" duration-ms="14350">
+      <class name="com.Demo.TestPackage.tc02Homepagefunctionality">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Demo.TestPackage.tc02Homepagefunctionality@15aab8c6]" started-at="2023-02-22T15:53:08 IST" name="setup" finished-at="2023-02-22T15:53:22 IST" duration-ms="13975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Homepage()[pri:0, instance:com.Demo.TestPackage.tc02Homepagefunctionality@15aab8c6]" started-at="2023-02-22T15:53:22 IST" name="Homepage" finished-at="2023-02-22T15:53:22 IST" duration-ms="308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Homepage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Demo.TestPackage.tc02Homepagefunctionality@15aab8c6]" started-at="2023-02-22T15:53:22 IST" name="tearDown" finished-at="2023-02-22T15:53:22 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Demo.TestPackage.tc02Homepagefunctionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
