@@ -40,5 +40,6 @@ public class tc02Homepagefunctionality extends TestBaceClass
 			 String actualtitle=driver.getTitle();
 			 
 			 Assert.assertEquals(actualtitle, expectedtitle);
+			 /////
  }	
 }
